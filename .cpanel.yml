@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/webbossn/public_html/web-boss.com.ng/cd-cpanel
+    - /bin/cp -a * $DEPLOYPATH
