@@ -8,4 +8,4 @@ Because this repository is for educational purposes, the codes are in branches
  - [SSH]() : Contains configuration for autodeployment: ensure to update values to yours
 
 # About
-Original Article can be found [here](https://web-boss.com.ng/blog)
+Original Article can be found [here](https://web-boss.com.ng/tutorials/continuous-deployment-with-cpanel/)
